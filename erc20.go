@@ -7,7 +7,7 @@ import (
 	"github.com/ethereum/go-ethereum/accounts/abi"
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/gadzefinance/topup/src/contracts"
+	"github.com/solipsis/multicall/contracts"
 )
 
 // BalanceOf is a multicall batched call for any contract that implements the following solidity interface
